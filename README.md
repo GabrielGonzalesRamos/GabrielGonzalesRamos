@@ -1,20 +1,19 @@
-[![MasterHead](https://www.vinsguru.com/wp-content/uploads/2018/03/kibana-realtime-header.gif)]
+[![MasterHead](https://www.vinsguru.com/wp-content/uploads/2018/03/kibana-realtime-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Gabriel Gonzales</h1>
-<h3 align="center">Young technician in networks and telecommunications. I have a strong desire to contribute to the DevOps community and assist businesses in achieving their goals.</h3>
+<h3 align="center">Young technician in networks and telecommunications.</h3>
+<h3 align="center">I have a strong desire to contribute to the DevOps community and assist businesses in achieving their goals.</h3>
 <img align="right" alt="Devops" width="400" src="https://nerdzombies.com.br/wp-content/uploads/2020/09/f55e769d-29a2-4926-895e-fbaf92e229f7-rev-1-DU-10412rv3_High_Res_JPEG-1-e1600114869948-1.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgonzalesramos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgonzalesramos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
+- 🌱 Currently, I am exploring new career horizons as I am learning about Big Data and Data Science. My goal is to merge my systems administration experience with data analysis to effectively address business challenges. Let's connect and collaborate to achieve innovative solutions
 - 📫 How to reach me **jose.gabriel.gonzales.ramos@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://matriculas.fly.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://matriculas.fly.dev/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://pe.linkedin.com/in/jos%c3%a9-gabriel-gonzales-ramos-82797b14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pe.linkedin.com/in/jos%c3%a9-gabriel-gonzales-ramos-82797b14a" height="30" width="40" /></a>
+<a href="https://matriculas.fly.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://matriculas.fly.dev/" height="30" width="40" /></a>
+<a href="https://pe.linkedin.com/in/jos%c3%a9-gabriel-gonzales-ramos-82797b14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pe.linkedin.com/in/jos%c3%a9-gabriel-gonzales-ramos-82797b14a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -6,6 +6,7 @@
 <img align="right" alt="Devops" width="400" src="https://nerdzombies.com.br/wp-content/uploads/2020/09/f55e769d-29a2-4926-895e-fbaf92e229f7-rev-1-DU-10412rv3_High_Res_JPEG-1-e1600114869948-1.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgonzalesramos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgonzalesramos" /> </p>
+<h3 align="left">About me:</h3>
 
 - 🌱 I am exploring new career horizons as I am learning about Big Data and Data Science.
   

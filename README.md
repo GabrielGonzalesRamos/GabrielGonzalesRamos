@@ -13,6 +13,14 @@
 - 🏆 My goal is to merge my systems administration experience with data analysis to effectively address business challenges.
   
 - 📫 How to reach me:  **jose.gabriel.gonzales.ramos@gmail.com**
+
+<h3 align="left">Experience:</h3>
+
+- 🐳 Orchestrating and managing development and production environments using Kubernetes, Docker, and Docker Compose.
+  
+- 🧐 Monitoring and optimizing the performance of systems and services using Logstash, Grafana, and Prometheus.
+  
+- 👨‍💻 Automating continuous integration and continuous delivery (CI/CD) processes using GitHub Actions and Jenkins.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

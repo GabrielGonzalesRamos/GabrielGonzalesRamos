@@ -8,9 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgonzalesramos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgonzalesramos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I am exploring new career horizons as I am learning about Big Data and Data Science. 
+
+- 🌱 I am exploring new career horizons as I am learning about Big Data and Data Science.
+  
 - 🏆 My goal is to merge my systems administration experience with data analysis to effectively address business challenges.
+  
 - 📫 How to reach me **jose.gabriel.gonzales.ramos@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://matriculas.fly.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://matriculas.fly.dev/" height="30" width="40" /></a>

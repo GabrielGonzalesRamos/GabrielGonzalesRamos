@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgonzalesramos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgonzalesramos" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I am exploring new career horizons as I am learning about Big Data and Data Science.
   
 - 🏆 My goal is to merge my systems administration experience with data analysis to effectively address business challenges.

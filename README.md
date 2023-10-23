@@ -1,11 +1,13 @@
+[![MasterHead](https://www.vinsguru.com/wp-content/uploads/2018/03/kibana-realtime-header.gif)]
+
 <h1 align="center">Hi 👋, I'm Gabriel Gonzales</h1>
 <h3 align="center">Young technician in networks and telecommunications. I have a strong desire to contribute to the DevOps community and assist businesses in achieving their goals.</h3>
+<img align="right" alt="Devops" width="400" src="https://nerdzombies.com.br/wp-content/uploads/2020/09/f55e769d-29a2-4926-895e-fbaf92e229f7-rev-1-DU-10412rv3_High_Res_JPEG-1-e1600114869948-1.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgonzalesramos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgonzalesramos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/GabrielGonzalesRamos](https://github.com/GabrielGonzalesRamos)
 
 - 📫 How to reach me **jose.gabriel.gonzales.ramos@gmail.com**
 

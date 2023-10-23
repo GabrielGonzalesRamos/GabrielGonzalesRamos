@@ -13,11 +13,11 @@
   
 - 🏆 My goal is to merge my systems administration experience with data analysis to effectively address business challenges.
   
-- 📫 How to reach me **jose.gabriel.gonzales.ramos@gmail.com**
+- 📫 How to reach me:  **jose.gabriel.gonzales.ramos@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://matriculas.fly.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://matriculas.fly.dev/" height="30" width="40" /></a>
+<a href="https://matriculas.fly.dev/" target="blank"><img align="center" src="flyio-icon.svg" alt="https://matriculas.fly.dev/" height="30" width="40" /></a>
 <a href="https://pe.linkedin.com/in/jos%c3%a9-gabriel-gonzales-ramos-82797b14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pe.linkedin.com/in/jos%c3%a9-gabriel-gonzales-ramos-82797b14a" height="30" width="40" /></a>
 </p>
 
